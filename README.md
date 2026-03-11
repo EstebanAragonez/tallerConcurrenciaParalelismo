@@ -1,5 +1,9 @@
 # Taller: Concurrencia y Paralelismo en Java con Spring Boot
 
+## ESTUDIANTES:
+- Leonardo Esteban Aragonez Bobadilla
+- Santiago Alarcon Vargas
+
 ## Objetivo
 
 Desarrollar programas en Java que permitan comprender el uso de hilos (threads) para ejecutar tareas en paralelo y manejar recursos compartidos.
@@ -43,4 +47,4 @@ src/main/java/com/taller/concurrencia/
 
 ## Preguntas de Análisis
 
-Ver [PREGUNTAS_ANALISIS.md](PREGUNTAS_ANALISIS.md) para las respuestas detalladas.
+Ver [PREGUNTAS_ANALISIS.md](RESPUESTAS_ANALISIS.md) para las respuestas detalladas.
