@@ -1,0 +1,6 @@
+com\taller\concurrencia\TallerConcurrenciaApplication.class
+com\taller\concurrencia\ejercicio2\CuentaBancaria.class
+com\taller\concurrencia\ejercicio2\Ejercicio2Concurrencia.class
+com\taller\concurrencia\ejercicio1\Ejercicio1Paralelismo.class
+com\taller\concurrencia\ejercicio2\ClienteBancarioRunnable.class
+com\taller\concurrencia\ejercicio1\SumaParalelaRunnable.class
