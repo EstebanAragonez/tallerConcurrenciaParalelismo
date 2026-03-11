@@ -1,4 +1,4 @@
-# Preguntas para Análisis - Concurrencia y Paralelismo
+# Respuestas Análisis - Concurrencia y Paralelismo
 
 Respuestas basadas en los ejercicios del taller.
 

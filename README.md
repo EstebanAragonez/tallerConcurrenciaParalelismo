@@ -47,4 +47,4 @@ src/main/java/com/taller/concurrencia/
 
 ## Preguntas de Análisis
 
-Ver [PREGUNTAS_ANALISIS.md](RESPUESTAS_ANALISIS.md) para las respuestas detalladas.
+Ver [RESPUESTAS_ANALISIS.md](RESPUESTAS_ANALISIS.md) para las respuestas detalladas.
